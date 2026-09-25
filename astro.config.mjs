@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
-export default defineConfig({});
+export default defineConfig({
+	site: "https://soft-smakager-d59252.netlify.app",
+});
