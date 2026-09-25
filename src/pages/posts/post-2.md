@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My Second Blog Post
 author: Uribe
 description: "After learning some Astro, I couldn't stop!"
@@ -8,4 +9,4 @@ image:
 pubDate: 2026-09-26
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
-I have been trying this for like 30 minutes and I think im getting used to.
+I have been trying this for like 30 minutes and I think I'm getting used to it.

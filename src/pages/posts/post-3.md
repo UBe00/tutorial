@@ -1,11 +1,12 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My Third Blog Post
 author: Uribe
 description: "I had some challenges, but asking in the community really helped!"
 image:
-    url: "https://docs.astro.build/assets/rays.webp"
+    url: "https://astro.build/assets/press/astro-logo-dark.svg"
     alt: "The Astro logo on a dark background with rainbow rays."
 pubDate: 2026-09-27
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
-Im learning basic stuff and I saw that Astro has a discord Community so im gonna check it out.
+I'm learning basic stuff and I saw that Astro has a Discord community, so I'm gonna check it out.
