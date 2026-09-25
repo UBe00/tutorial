@@ -1,0 +1,11 @@
+---
+title: My Second Blog Post
+author: Uribe
+description: "After learning some Astro, I couldn't stop!"
+image:
+    url: "https://docs.astro.build/assets/arc.webp"
+    alt: "The Astro logo on a dark background with a purple gradient arc."
+pubDate: 2026-09-26
+tags: ["astro", "blogging", "learning in public", "successes"]
+---
+I have been trying this for like 30 minutes and I think im getting used to.
